@@ -1,0 +1,14 @@
+/Users/ohs80340/rustWork/rust_tate/target/rls/debug/deps/awc-bd543fd14958c76e.rmeta: /Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/lib.rs /Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/builder.rs /Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/connect.rs /Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/error.rs /Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/frozen.rs /Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/request.rs /Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/response.rs /Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/sender.rs /Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/test.rs /Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/ws.rs
+
+/Users/ohs80340/rustWork/rust_tate/target/rls/debug/deps/awc-bd543fd14958c76e.d: /Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/lib.rs /Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/builder.rs /Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/connect.rs /Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/error.rs /Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/frozen.rs /Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/request.rs /Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/response.rs /Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/sender.rs /Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/test.rs /Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/ws.rs
+
+/Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/lib.rs:
+/Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/builder.rs:
+/Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/connect.rs:
+/Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/error.rs:
+/Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/frozen.rs:
+/Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/request.rs:
+/Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/response.rs:
+/Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/sender.rs:
+/Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/test.rs:
+/Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/ws.rs:

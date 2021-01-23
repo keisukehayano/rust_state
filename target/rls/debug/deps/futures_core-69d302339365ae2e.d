@@ -1,0 +1,11 @@
+/Users/ohs80340/rustWork/rust_tate/target/rls/debug/deps/futures_core-69d302339365ae2e.rmeta: /Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/lib.rs /Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/future.rs /Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/stream.rs /Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/task/mod.rs /Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/task/poll.rs /Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/task/__internal/mod.rs /Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/task/__internal/atomic_waker.rs
+
+/Users/ohs80340/rustWork/rust_tate/target/rls/debug/deps/futures_core-69d302339365ae2e.d: /Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/lib.rs /Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/future.rs /Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/stream.rs /Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/task/mod.rs /Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/task/poll.rs /Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/task/__internal/mod.rs /Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/task/__internal/atomic_waker.rs
+
+/Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/lib.rs:
+/Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/future.rs:
+/Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/stream.rs:
+/Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/task/mod.rs:
+/Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/task/poll.rs:
+/Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/task/__internal/mod.rs:
+/Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/task/__internal/atomic_waker.rs:
