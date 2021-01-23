@@ -1,0 +1,12 @@
+/Users/ohs80340/rustWork/rust_tate/target/debug/deps/actix_router-723690f009807d1f.rmeta: /Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.6/src/lib.rs /Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.6/src/de.rs /Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.6/src/path.rs /Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.6/src/resource.rs /Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.6/src/router.rs /Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.6/src/url.rs
+
+/Users/ohs80340/rustWork/rust_tate/target/debug/deps/libactix_router-723690f009807d1f.rlib: /Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.6/src/lib.rs /Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.6/src/de.rs /Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.6/src/path.rs /Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.6/src/resource.rs /Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.6/src/router.rs /Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.6/src/url.rs
+
+/Users/ohs80340/rustWork/rust_tate/target/debug/deps/actix_router-723690f009807d1f.d: /Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.6/src/lib.rs /Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.6/src/de.rs /Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.6/src/path.rs /Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.6/src/resource.rs /Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.6/src/router.rs /Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.6/src/url.rs
+
+/Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.6/src/lib.rs:
+/Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.6/src/de.rs:
+/Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.6/src/path.rs:
+/Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.6/src/resource.rs:
+/Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.6/src/router.rs:
+/Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.6/src/url.rs:

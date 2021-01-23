@@ -1,0 +1,11 @@
+/Users/ohs80340/rustWork/rust_tate/target/debug/deps/libasync_trait-818e7450dc91e406.dylib: /Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.42/src/lib.rs /Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.42/src/args.rs /Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.42/src/expand.rs /Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.42/src/lifetime.rs /Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.42/src/parse.rs /Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.42/src/receiver.rs /Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.42/src/respan.rs
+
+/Users/ohs80340/rustWork/rust_tate/target/debug/deps/async_trait-818e7450dc91e406.d: /Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.42/src/lib.rs /Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.42/src/args.rs /Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.42/src/expand.rs /Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.42/src/lifetime.rs /Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.42/src/parse.rs /Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.42/src/receiver.rs /Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.42/src/respan.rs
+
+/Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.42/src/lib.rs:
+/Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.42/src/args.rs:
+/Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.42/src/expand.rs:
+/Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.42/src/lifetime.rs:
+/Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.42/src/parse.rs:
+/Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.42/src/receiver.rs:
+/Users/ohs80340/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.42/src/respan.rs:
